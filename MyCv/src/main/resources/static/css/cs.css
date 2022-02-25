@@ -1,0 +1,86 @@
+body {
+
+
+    color: white;
+    background-image: linear-gradient(rgba(4, 5, 6, 0.7), rgba(4, 5, 6, 0.7)), url("https://dev.java/assets/images/java-logo-vert-blk.png");
+}
+
+
+.index-h1 {
+
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+    background: red;
+}
+
+.nav-index {
+    text-align: right;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.index-li {
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+
+a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.index-a {
+    margin-right: 10px;
+    padding-right: 10px;
+    background: red;
+    font-size: 20px;
+    color: white;
+}
+
+a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.info-nav {
+    font-size: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.info-h1 {
+    color: red;
+    margin-top: 10px;
+    padding-left: 20px;
+
+}
+
+.info-p {
+
+    color: white;
+    padding-left: 20px;
+    margin-left: 40px;
+}
+
+.info-div-p1 {
+
+
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 0px;
+    padding-right: 50px;
+
+}
+
+.img {
+
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+
+}
